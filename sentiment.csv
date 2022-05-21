@@ -1,0 +1,501 @@
+,tweet,word_count,char_count,avg_word,stopwords,hastags,numerics,upper,sentiment
+0,eipagri agrikid irishrurallink duncannoneip bride_project catherineguest thehsa martinheydonfg httpstcoskgpjnakm,10,128,13.222222222222221,0,1,0,1,0.0
+1,dept_transport european maritime day celebrate work ensure supply chain economy stay open ir,23,140,5.130434782608695,8,0,0,1,0.0
+2,darastanley happy worldbeeday2022 folk lucky work fantastic researcher bee ecology conservation inter,21,140,5.714285714285714,6,1,0,1,0.5111111111111111
+3,covid19 credit guarantee scheme available end june 2022 fisher could httpstcolwvhom4uzv,21,135,5.476190476190476,7,2,0,1,0.4
+4,european maritime day emd2022 today celebrate ireland research vessel past learn,20,140,5.666666666666667,6,0,0,2,-0.125
+5,doesnt show important work undertaken irishfarmers custodian land dont know httpstcozdnuknafnd,21,140,5.714285714285714,9,3,0,1,0.4
+6,european maritime day emd2022 today celebrate ireland research vessel past learn,20,140,5.666666666666667,6,0,0,2,-0.125
+7,european maritime day emd2022 today celebrate ireland research vessel past learn,20,140,5.666666666666667,6,0,0,2,-0.125
+8,andsmythpr bordbia really wish id chatted earlier year,15,99,5.666666666666667,5,0,0,1,0.1
+9,medium response date clear ireland still love potato lr michael hoey president httpstcoxd0ittcici,21,140,5.363636363636363,4,0,0,1,0.3
+10,brilliant,5,51,9.4,0,0,0,0,0.9
+11,european maritime day emd2022 today celebrate ireland research vessel past learn,20,140,5.666666666666667,6,0,0,2,-0.125
+12,shellfish_ucc fascinating creature recorded week biodiversity survey native oyster bed cork,22,140,5.409090909090909,9,1,0,1,0.7
+13,darastanley happy worldbeeday2022 folk lucky work fantastic researcher bee ecology conservation inter,21,140,5.714285714285714,6,1,0,1,0.5111111111111111
+14,naturenymph great piece ellamcsweeney intensification agriculture widespread impact bee bird intensificat,17,140,7.294117647058823,5,0,0,1,0.8
+15,ccwpeatlands ruralnetwork rtejr midlands103 ifamedia farmersjournal httpstcoi1wqqew97,9,131,13.666666666666666,0,0,0,0,0.0
+16,worldbeeday today pollinatorplan releasing three short video basic bee two new blog,21,140,5.714285714285714,6,1,0,1,0.04545454545454545
+17,dept_transport european maritime day celebrate work ensure supply chain economy stay open ir,23,140,5.130434782608695,8,0,0,1,0.0
+18,6junej disgraceful disgusting way treat animal banliveexports enough inhumane cruelty,21,139,5.666666666666667,5,1,0,3,-0.6333333333333333
+19,darastanley happy worldbeeday2022 folk lucky work fantastic researcher bee ecology conservation inter,21,140,5.714285714285714,6,1,0,1,0.5111111111111111
+20,6junej disgraceful disgusting way treat animal banliveexports enough inhumane cruelty,21,139,5.666666666666667,5,1,0,3,-0.6333333333333333
+21,european maritime day celebrate work ensure supply chain economy stay open httpstconnkfdjdboz,21,140,5.714285714285714,7,0,0,0,0.0
+22,mbison22 ethicalfarmie decency moral modicum cash scramble,21,140,5.714285714285714,8,0,0,1,0.0
+23,mbison22 ethicalfarmie decency moral modicum cash scramble,21,140,5.714285714285714,8,0,0,1,0.0
+24,shellfish_ucc fascinating creature recorded week biodiversity survey native oyster bed cork,22,140,5.409090909090909,9,1,0,1,0.7
+25,pamela49986311 ethicalfarmie newstalkfm irishtimes independent_ie irishexaminer ifamedia patkennynt,11,140,11.818181818181818,0,0,0,1,0.0
+26,naturenymph great piece ellamcsweeney intensification agriculture widespread impact bee bird intensificat,17,140,7.294117647058823,5,0,0,1,0.8
+27,ucd_forestry member dafmfunded continufor scoping site assessment natural regeneration ccf stand,20,140,6.05,6,0,0,2,0.1
+28,naturenymph great piece ellamcsweeney intensification agriculture widespread impact bee bird intensificat,17,140,7.294117647058823,5,0,0,1,0.8
+29,naturenymph great piece ellamcsweeney intensification agriculture widespread impact bee bird intensificat,17,140,7.294117647058823,5,0,0,1,0.8
+30,1000 school took part final 10 vote follow u twitter andor facebook,22,139,4.75,7,0,0,1,0.0
+31,fascinating creature recorded week biodiversity survey native oyster bed httpstcosoh9xsgsuy,20,140,6.05,8,1,0,0,0.7
+32,great piece ellamcsweeney intensification agriculture widespread impact bee bird inten httpstcoywzftewkej,16,140,7.8125,5,0,0,0,0.8
+33,farmer farm play vital role protecting wild pollinator protecting farmland pollinator european,19,139,6.2631578947368425,4,0,0,1,0.06666666666666667
+34,onethird 98 wild bee specie threatened extinction ireland pollinatorplan aim reverse,20,139,6.0,6,0,1,1,0.1
+35,worldbeeday today pollinatorplan releasing three short video basic bee two new blog,21,140,5.714285714285714,6,1,0,1,0.04545454545454545
+36,darastanley happy worldbeeday2022 folk lucky work fantastic researcher bee ecology conservation inter,21,140,5.714285714285714,6,1,0,1,0.5111111111111111
+37,circbio mtu_ie teagasc nuigalway csoireland,6,64,9.833333333333334,0,0,0,0,0.0
+38,worldbeeday today pollinatorplan releasing three short video basic bee two new blog,21,140,5.714285714285714,6,1,0,1,0.04545454545454545
+39,pollinatorplan correction 100 bee specie ireland according biodatacentre httpstcofp6ebjjtkz,14,132,8.5,3,0,1,0,0.0
+40,mbison22 ethicalfarmie decency moral modicum cash scramble,21,140,5.714285714285714,8,0,0,1,0.0
+41,ucd_forestry member dafmfunded continufor scoping site assessment natural regeneration ccf stand,20,140,6.05,6,0,0,2,0.1
+42,darastanley happy worldbeeday2022 folk lucky work fantastic researcher bee ecology conservation inter,21,140,5.714285714285714,6,1,0,1,0.5111111111111111
+43,worldbeeday today pollinatorplan releasing three short video basic bee two new blog,21,140,5.714285714285714,6,1,0,1,0.04545454545454545
+44,worldbeeday today pollinatorplan releasing three short video basic bee two new blog,21,140,5.714285714285714,6,1,0,1,0.04545454545454545
+45,worldbeeday today pollinatorplan releasing three short video basic bee two new blog,21,140,5.714285714285714,6,1,0,1,0.04545454545454545
+46,onethird 98 wild bee specie threatened extinction ireland pollinatorplan aim reverse,20,139,6.0,6,0,1,1,0.1
+47,bee together wild pollinator play major role maintaining biodiversity ensuring survival plant,20,140,6.05,6,0,0,1,0.08125
+48,ucd_forestry member dafmfunded continufor scoping site assessment natural regeneration ccf stand,20,140,6.05,6,0,0,2,0.1
+49,darastanley happy worldbeeday2022 folk lucky work fantastic researcher bee ecology conservation inter,21,140,5.714285714285714,6,1,0,1,0.5111111111111111
+50,ajwwoods big money coming summer show 20000 funding breeder choice class heifer must g,22,140,5.409090909090909,6,0,0,1,0.0
+51,new research integrated pest management strategy irish horticulture hope hear many grower httpstcolucasesk2e,20,140,6.05,5,0,0,0,0.21212121212121213
+52,darastanley happy worldbeeday2022 folk lucky work fantastic researcher bee ecology conservation inter,21,140,5.714285714285714,6,1,0,1,0.5111111111111111
+53,darastanley happy worldbeeday2022 folk lucky work fantastic researcher bee ecology conservation inter,21,140,5.714285714285714,6,1,0,1,0.5111111111111111
+54,analyticsinsire introducing finalist 2022 analytics amp ai award public sector analytics year category spon,21,144,5.904761904761905,5,0,1,2,0.0
+55,vistamilk congrats nadeemrather_ tyndallinstitut scienceirel digitalisingdairy httpstconr0wp2kqbp,9,127,13.222222222222221,0,1,0,1,0.0
+56,ethicalfarmie decency moral modicum cash scramble httpstcodboghutzvf,18,140,6.833333333333333,7,0,0,0,0.0
+57,darastanley happy worldbeeday2022 folk lucky work fantastic researcher bee ecology conservation inter,21,140,5.714285714285714,6,1,0,1,0.5111111111111111
+58,darastanley happy worldbeeday2022 folk lucky work fantastic researcher bee ecology conservation inter,21,140,5.714285714285714,6,1,0,1,0.5111111111111111
+59,happy worldbeeday2022 folk lucky work fantastic researcher bee ecology conservation httpstcowebip7wlly,19,140,6.421052631578948,5,1,0,0,0.5111111111111111
+60,vistamilk nadeemrather_ tyndallinstitut scienceirel many congratulation nadeemrather_,8,108,12.625,0,0,0,0,0.5
+61,highly recommend farm walk tom farm kylemore today training event pmp farm advis httpstcohupgj1zfs3,23,140,5.130434782608695,7,1,0,1,0.16
+62,hedgelayingie nesting season cut hedge irish wildbird population crashing human responsible,22,140,5.409090909090909,8,0,0,1,0.06666666666666667
+63,imeldaannecasey research part fasten david wall teagascenviron pi collaborator deptofscisetu ucdagfo,16,140,7.8125,2,0,0,2,0.0
+64,research part fasten david wall teagascenviron pi collaborator deptofscisetu httpstcofynkvlzffi,14,134,8.642857142857142,2,0,0,1,0.0
+65,martinheydonfg warmly welcome publication simonharristd impact 2030 new national research innovation strategy,20,140,5.95,5,0,0,3,0.4681818181818182
+66,martinheydonfg warmly welcome publication simonharristd impact 2030 new national research innovation strategy,20,140,5.95,5,0,0,3,0.4681818181818182
+67,boltonwarberg thanks coorganisers seaweedireland nuanamara ireland booth sponsor marineinst bordiascmhara agriculture,15,140,8.4,3,1,0,1,0.2
+68,niall mcmanus earthroute sharing idea food waste optimization add value carlow business httpstcotcqsx8nzez,21,140,5.714285714285714,7,0,0,0,-0.2
+69,animallawie dobetterdd dublinspca fingalcoco cost local authority average 700800 seize horse using,18,139,6.777777777777778,3,0,0,1,-0.075
+70,dcuwater discussion progress measure made across agri sector protect improve waterquality epaireland teagas,20,140,6.05,6,1,0,1,0.0
+71,ucd_forestry member dafmfunded continufor scoping site assessment natural regeneration ccf stand,20,140,6.05,6,0,0,2,0.1
+72,royraces animalwelfareie banbloodsports watch_welfare horseslaughter_ banhorseracingi httpstcogigwck1pzk,8,132,15.625,0,0,0,0,0.0
+73,gailhunt animalwelfareie banbloodsports watch_welfare horseslaughter_ banhorseracingi httpstcoapjatw7eg7,8,133,15.75,0,0,0,0,0.0
+74,ucd_forestry member dafmfunded continufor scoping site assessment natural regeneration ccf stand,20,140,6.05,6,0,0,2,0.1
+75,animallawie dublinspca fingalcoco follow money trail find httpstcosiszyeyfyw,20,140,6.05,9,0,0,0,0.0
+76,ucd_forestry member dafmfunded continufor scoping site assessment natural regeneration ccf stand,20,140,6.05,6,0,0,2,0.1
+77,ucd_forestry member dafmfunded continufor scoping site assessment natural regeneration ccf stand,20,140,6.05,6,0,0,2,0.1
+78,member dafmfunded continufor scoping site assessment natural regeneration ccf httpstcotmtiwzec2u,18,139,6.777777777777778,6,0,0,1,0.1
+79,biodatacentre pollinatorplan pollinator started working nursery march honeyberries httpstcohodopzpyfl,14,138,8.928571428571429,3,0,0,0,0.0
+80,congrats nadeemrather_ tyndallinstitut scienceirel digitalisingdairy httpstconr0wp2kqbp,7,112,15.142857142857142,0,1,0,0,0.0
+81,edelwconroy athloneadvert ccathlone please vote simply liking james entry well done getting,17,140,7.294117647058823,2,0,0,1,0.0
+82,8love past seize future james duffy group 1st year 3rd year athlone community college athlone co w,19,140,5.409090909090909,0,0,0,2,-0.08333333333333333
+83,exoticpetsirl lnbdublin seanad yesterday asking stance positivelist legislation amp cyp,20,144,6.578947368421052,7,1,0,1,0.0
+84,lnbdublin seanad yesterday asking stance positivelist legislation amp th httpstcoamjrp8i4ir,18,144,7.470588235294118,6,1,0,0,0.0
+85,mgrseedsavers important read national biodiversity week irishenvnet httpstcofskix8jpb,15,127,8.692307692307692,1,0,0,1,0.4
+86,go win killian,7,56,7.142857142857143,2,0,0,0,0.8
+87,mgrseedsavers important read national biodiversity week irishenvnet httpstcofskix8jpb,15,127,8.692307692307692,1,0,0,1,0.4
+88,nice money parade cattle could spare euro help rescue httpstcopb0mwhnlkw,20,140,6.315789473684211,6,0,0,0,0.175
+89,royraces animalwelfareie banbloodsports watch_welfare horseslaughter_ banhorseracingi httpstcoiyrroxkhuk,8,132,15.625,0,0,0,0,0.0
+90,mgrseedsavers important read national biodiversity week irishenvnet httpstcofskix8jpb,15,127,8.692307692307692,1,0,0,1,0.4
+91,disgraceful disgusting way treat animal banliveexports enough inhumane c httpstco6r3qrn681p,19,140,6.421052631578948,5,1,0,2,-0.6333333333333333
+92,allpeopleallna1 white elephant walk shining massy wood today 13 white elephant say dont want interpretive centre wa,22,140,5.086956521739131,3,0,0,3,0.0
+93,allpeopleallna1 white elephant walk shining massy wood today 13 white elephant say dont want interpretive centre wa,22,140,5.086956521739131,3,0,0,3,0.0
+94,mgrseedsavers important read national biodiversity week irishenvnet httpstcofskix8jpb,15,127,8.692307692307692,1,0,0,1,0.4
+95,mgrseedsavers important read national biodiversity week irishenvnet httpstcofskix8jpb,15,127,8.692307692307692,1,0,0,1,0.4
+96,8love past seize future james duffy group 1st year 3rd year athlone community college athlone co w,19,140,5.409090909090909,0,0,0,2,-0.08333333333333333
+97,today oireachtasnews asked portofcork classified designated port non eu fresh produce httpstcothv0beaf0j,20,137,5.9,6,0,0,2,0.3
+98,siobhanoconnor3 17 month postdoc position open anyone interested farmer mental health help,21,140,5.714285714285714,5,0,1,1,0.049999999999999996
+99,mgrseedsavers important read national biodiversity week irishenvnet httpstcofskix8jpb,15,127,8.692307692307692,1,0,0,1,0.4
+100,mgrseedsavers important read national biodiversity week irishenvnet httpstcofskix8jpb,15,127,8.692307692307692,1,0,0,1,0.4
+101,mgrseedsavers important read national biodiversity week irishenvnet httpstcofskix8jpb,15,127,8.692307692307692,1,0,0,1,0.4
+102,mgrseedsavers important read national biodiversity week irishenvnet httpstcofskix8jpb,15,127,8.692307692307692,1,0,0,1,0.4
+103,mgrseedsavers important read national biodiversity week irishenvnet httpstcofskix8jpb,15,127,8.692307692307692,1,0,0,1,0.4
+104,wpc2022ireland bordbia congratulation launch wpc2022ireland,9,100,10.222222222222221,2,1,0,0,0.0
+105,allowdale allforshow regulator dont regulate systemic failure ccpcireland eu_competition,17,140,7.294117647058823,3,1,0,1,-0.3166666666666667
+106,hsa launch online course seasonal worker horticulture read httpstcolkzjtaexj httpstcotqw28zbs6z,13,129,8.214285714285714,3,0,0,1,0.0
+107,minister announced 20000 investment irish agricultural showing scene next five ye,20,140,6.05,6,0,0,1,0.0
+108,thanks coorganisers seaweedireland nuanamara ireland booth sponsor marineinst bordiascmhara httpstco0xcmqemabj,13,132,9.23076923076923,3,1,0,0,0.2
+109,deardolores let u hope alongside showcasing ireland best beef breeding heifer agricultur,17,140,7.235294117647059,2,0,0,1,1.0
+110,let u hope alongside showcasing ireland best beef breeding heifer httpstco9clvcyntvr,15,134,8.0,2,0,0,0,1.0
+111,let u hope alongside showcasing ireland best beef breeding heifer httpstcojfxwosrel0,15,134,8.0,2,0,0,0,1.0
+112,minister announced 20000 investment irish agricultural showing scene next five ye,20,140,6.05,6,0,0,1,0.0
+113,allforshow regulator dont regulate systemic failure ccpcireland httpstcobo2cqqddh8,15,133,7.933333333333334,3,1,0,0,-0.3166666666666667
+114,dobetterdd dublinspca fingalcoco cost local authority average 700800 seize horse httpstcomcqx4y4nv,16,140,7.8125,3,0,0,0,-0.075
+115,animallawie dublinspca fingalcoco thats big notice period surily unannounced visit w httpstcoqdjpim7uew,16,140,7.8125,3,0,0,0,0.0
+116,important read national biodiversity week irishenvnet httpstcofskix8jpb,13,108,8.727272727272727,1,0,0,0,0.4
+117,irishseedsavers madsmckeever irishseedbank irishseedtrade fruithillfarm keelingsfruits nbgglasnevin httpstcowjjz961wiu,8,131,15.5,0,0,0,0,0.0
+118,sinabhfuil madsmckeever irishseedbank irishseedtrade fruithillfarm keelingsfruits nbgglasnevin conserva httpstcoyamhpknsfz,10,140,13.1,0,0,0,0,0.0
+119,eoinllewellyn keep messaging ifamedia farmersjournal farmer ireland head san,19,140,6.777777777777778,5,0,0,2,0.0
+120,tjmcintyre lumendatabase going able keep sharing data without consent without valid httpstcoc96eywdqqk,18,140,6.833333333333333,3,0,0,0,0.5
+121,pamela49986311 ethicalfarmie newstalkfm irishtimes independent_ie irishexaminer ifamedia patkennynt,11,140,11.818181818181818,0,0,0,1,0.0
+122,seewilkie dublincaro omey island,6,66,10.166666666666666,0,0,0,0,0.0
+123,gailhunt animalwelfareie banbloodsports watch_welfare horseslaughter_ banhorseracingi httpstcopccnrdp4q3,8,133,15.75,0,0,0,0,0.0
+124,seewilkie dublincaro lovely moocow,7,70,9.142857142857142,0,0,0,0,0.5
+125,rayofoghlu dublincaro disturbance would big factor sure historical nu httpstcoyjqntvdyju,16,140,7.8125,3,0,0,0,0.16666666666666666
+126,seewilkie dublincaro might bit premature ask suspect httpstco2bopkrpyn,18,140,6.833333333333333,7,0,0,0,0.0
+127,inis bo finne close guess bo dea telling lifeonmachair bee httpstcof8khq7gkpv,24,140,4.875,8,1,0,1,0.0
+128,mick_gaffney job alert beyond peat looking recruit 48 month term postdoctoral candi,22,140,5.409090909090909,4,0,1,1,0.0
+129,2mediatrap amelia kobzda alison flood julia kurpis dagmara pasieka group 1st 3rd year colaiste chiarain athl,16,140,6.421052631578948,0,0,0,1,0.0
+130,naturenymph birdwatchie video explaining rodenticides effect wild bird bird prey know smaller bir,22,140,5.409090909090909,7,0,0,1,0.05
+131,epacatchments next speaker dr leanne roche regulation incentive industry role play,21,139,5.571428571428571,7,0,0,1,0.0
+132,1000 school took part final 10 vote follow u twitter andor facebook,22,139,4.75,7,0,0,1,0.0
+133,farmers4safety exciting news coming way stay tuned find eipagri bride_project dunc,20,140,6.05,5,1,0,2,0.3
+134,vistamilk hiring dont miss exciting opportunity join design develop deliver engaged,25,139,4.6,7,1,0,1,0.3
+135,farmers4safety exciting news coming way stay tuned find eipagri bride_project dunc,20,140,6.05,5,1,0,2,0.3
+136,exciting news coming way stay tuned find eipagri bride_project httpstcogtrbrdla6,18,138,6.722222222222222,5,1,0,1,0.3
+137,ajwwoods big money coming summer show 20000 funding breeder choice class heifer must g,22,140,5.409090909090909,6,0,0,1,0.0
+138,ajwwoods big money coming summer show 20000 funding breeder choice class heifer must g,22,140,5.409090909090909,6,0,0,1,0.0
+139,big money coming summer show 20000 funding breeder choice class heifer httpstcozcmfczrv2k,18,140,6.833333333333333,5,0,0,0,0.0
+140,vistamilk hiring dont miss exciting opportunity join design develop deliver engaged,25,139,4.6,7,1,0,1,0.3
+141,epacatchments next speaker dr leanne roche regulation incentive industry role play,21,139,5.571428571428571,7,0,0,1,0.0
+142,pamela49986311 ethicalfarmie newstalkfm irishtimes independent_ie irishexaminer ifamedia patkennynt,11,140,11.818181818181818,0,0,0,1,0.0
+143,jp_archscape designed organic edible show garden garden demonstrates step c httpstco7nj4unjyh,17,140,7.294117647058823,4,0,0,0,0.0
+144,biodatacentre hosting monthlong virtual festival farmland biodiversity may focus challe,20,140,6.05,7,0,0,1,0.0
+145,ccwpeatlands ruralnetwork rtejr midlands103 ifamedia farmersjournal httpstco97wdehlpas,9,131,13.666666666666666,0,0,0,0,0.0
+146,1000 school took part final 10 vote follow u twitter andor facebook,22,139,4.75,7,0,0,1,0.0
+147,8love past seize future james duffy group 1st year 3rd year athlone community college athlone co w,19,140,5.409090909090909,0,0,0,2,-0.08333333333333333
+148,h_dundon liamly window opportunity closing fast subsidy increase silage increase,21,140,5.714285714285714,6,1,0,1,0.2
+149,cliodhnamurphy1 full solidarity fisher protesting today call regularisation fisher move critical skill,20,140,6.05,7,0,0,1,0.175
+150,mick_gaffney job alert beyond peat looking recruit 48 month term postdoctoral candi,22,140,5.409090909090909,4,0,1,1,0.0
+151,research innovation core element foodvision2030 align impact2030 department give supp,18,140,6.368421052631579,6,2,0,1,0.0
+152,mick_gaffney job alert beyond peat looking recruit 48 month term postdoctoral candi,22,140,5.409090909090909,4,0,1,1,0.0
+153,farmers4safety delighted featured thatsfarming click link read article httpstcoyvqiuzecxw agricult,15,140,6.833333333333333,7,0,0,1,0.7
+154,inhfa president vincent roddy warns currently applied policy preservation driven stagnationampthe ongoing httpstcomewsiuloga,16,143,8.0,3,0,0,1,0.0
+155,vistamilk hiring dont miss exciting opportunity join design develop deliver engaged,25,139,4.6,7,1,0,1,0.3
+156,dcuwater discussion progress measure made across agri sector protect improve waterquality epaireland teagas,20,140,6.05,6,1,0,1,0.0
+157,dcuwater discussion progress measure made across agri sector protect improve waterquality epaireland teagas,20,140,6.05,6,1,0,1,0.0
+158,discussion progress measure made across agri sector protect improve waterquality httpstcokiff4nkxnn,17,130,6.705882352941177,6,1,0,0,0.0
+159,martinheydonfg warmly welcome publication simonharristd impact 2030 new national research innovation strategy,20,140,5.95,5,0,0,3,0.4681818181818182
+160,martinheydonfg warmly welcome publication simonharristd impact 2030 new national research innovation strategy,20,140,5.95,5,0,0,3,0.4681818181818182
+161,warmly welcome publication simonharristd impact 2030 new national research innovation strategy httpstcodmwak86eyl,18,140,6.833333333333333,5,0,0,1,0.4681818181818182
+162,savourfood_ie tourismhospdept foodcloud supportive advice,6,77,12.0,0,0,0,0,0.5
+163,research innovation core element foodvision2030 align impact2030 department give supp,18,140,6.368421052631579,6,2,0,1,0.0
+164,research innovation core element foodvision2030 align impact2030 department give supp,18,140,6.368421052631579,6,2,0,1,0.0
+165,vistamilk hiring dont miss exciting opportunity join design develop deliver engaged,25,139,4.6,7,1,0,1,0.3
+166,siobhanoconnor3 17 month postdoc position open anyone interested farmer mental health help,21,140,5.714285714285714,5,0,1,1,0.049999999999999996
+167,leafireland check 3 year anchoillbheag thomondcommcoll flourishing planted 2nd yr woodwork st,23,140,5.130434782608695,8,1,1,1,0.0
+168,agriculture epawater2022 nitrate regulation incentive action presentation eu_env httpstcox9dubdpqgv,11,126,9.5,3,1,0,1,0.1
+169,vistamilk hiring dont miss exciting opportunity join design develop deliver engaged,25,139,4.6,7,1,0,1,0.3
+170,cliodhnamurphy1 full solidarity fisher protesting today call regularisation fisher move critical skill,20,140,6.05,7,0,0,1,0.175
+171,vistamilk hiring dont miss exciting opportunity join design develop deliver engaged,25,139,4.6,7,1,0,1,0.3
+172,new depthousingirl water eip 60 million funding year fund measure httpstcokhrdchle4g,19,137,6.2631578947368425,5,0,2,1,0.13636363636363635
+173,,3,42,13.333333333333334,0,0,0,0,0.0
+174,research innovation core element foodvision2030 align impact2030 department give supp,18,140,6.368421052631579,6,2,0,1,0.0
+175,httpstcojipgkhqijx,3,56,18.0,0,0,0,0,0.0
+176,inspiring thenk,6,57,8.666666666666666,2,0,0,0,0.5
+177,nice work,4,42,9.75,0,0,0,0,0.6
+178,like picture beautiful,10,77,6.8,3,0,0,1,0.85
+179,amazing,3,71,23.0,0,0,0,0,0.6000000000000001
+180,full solidarity fisher protesting today call regularisation fisher move critical ski httpstcoafjaeewwmu,19,140,6.421052631578948,7,0,0,0,0.175
+181,minister announced 237m 2021 green lowcarbon agrienvironment scheme glas balancing payme,17,140,7.294117647058823,3,0,1,2,-0.2
+182,leanne roche tighter nitrate regulation coming always derogation tagged httpstcohymyhp4abp,17,140,7.294117647058823,5,0,0,0,0.0
+183,epacatchments next speaker dr leanne roche regulation incentive industry role play,21,139,5.571428571428571,7,0,0,1,0.0
+184,next speaker dr leanne roche regulation incentive industry role httpstcoch1icfpn0,19,139,6.2631578947368425,6,0,0,0,0.0
+185,vistamilk hiring dont miss exciting opportunity join design develop deliver engaged,25,139,4.6,7,1,0,1,0.3
+186,athloneadvert ccathlone please vote simply liking james entry well done httpstcoszd2lktufm,15,139,8.333333333333334,1,0,0,0,0.0
+187,8love past seize future james duffy group 1st year 3rd year athlone community college athlone co w,19,140,5.409090909090909,0,0,0,2,-0.08333333333333333
+188,felixd0r ifamedia farmersjournal yes check httpstconq48wqiwe th httpstcowb8kjtjjnm,11,140,9.846153846153847,2,0,0,0,0.0
+189,extremely promising see lnbdublin raising issue exoticpet trade positive list legislation th httpstcodrpijm64kq,19,140,6.421052631578948,6,1,0,0,0.21363636363636362
+190,saveleitrim env_pillar ellamcsweeney citizassembly certainly large scale cumulative plantation forestry reducing biodive,16,140,7.8125,3,0,0,1,0.21428571428571427
+191,siobhanoconnor3 17 month postdoc position open anyone interested farmer mental health help,21,140,5.714285714285714,5,0,1,1,0.049999999999999996
+192,dept_transport merrionstreet response httpstcoxvxlkjfpo,6,89,11.714285714285714,0,0,0,0,0.0
+193,dept_transport merrionstreet post new link response promoted tweet wit httpstcoelikcyx2xf,18,140,6.833333333333333,6,0,0,0,0.13636363636363635
+194,deptrcd merrionstreet ruralnetwork localgovire public consultation review measure rela httpstcodyxwhvjlfd,14,140,9.071428571428571,3,0,0,0,0.0
+195,8love past seize future james duffy group 1st year 3rd year athlone community college athlone co w,19,140,5.409090909090909,0,0,0,2,-0.08333333333333333
+196,eoinllewellyn ifamedia farmersjournal agree think way f httpstco9cmo1ibf3s,16,140,7.8125,4,0,0,2,0.0
+197,felixd0r ifamedia farmersjournal hi felix yes right present time httpstcomwirobugtu,15,139,7.75,3,0,0,0,0.14285714285714285
+198,eoinllewellyn ifamedia farmersjournal beyond hydroponics reckon 2009 httpstcooevm4ndcpr,13,140,9.846153846153847,0,0,0,1,0.0
+199,delighted featured thatsfarming click link read article httpstcoyvqiuzecxw httpstcowfgwzuqo7x,14,134,7.4375,7,0,0,0,0.7
+200,vistamilk hiring dont miss exciting opportunity join design develop deliver engaged,25,139,4.6,7,1,0,1,0.3
+201,mick_gaffney job alert beyond peat looking recruit 48 month term postdoctoral candi,22,140,5.409090909090909,4,0,1,1,0.0
+202,vistamilk hiring dont miss exciting opportunity join design develop deliver engaged,25,139,4.6,7,1,0,1,0.3
+203,vistamilk hiring dont miss exciting opportunity join design develop deliver engaged,25,139,4.6,7,1,0,1,0.3
+204,siobhanoconnor3 17 month postdoc position open anyone interested farmer mental health help,21,140,5.714285714285714,5,0,1,1,0.049999999999999996
+205,hiring dont miss exciting opportunity join design develop deliver httpstcohylhlzobxt,23,139,5.086956521739131,7,0,0,0,0.3
+206,mick_gaffney job alert beyond peat looking recruit 48 month term postdoctoral candi,22,140,5.409090909090909,4,0,1,1,0.0
+207,pearl_mussel great day international group demonstrating great work pearl_mussel farmer delivering environm,18,140,6.833333333333333,4,0,0,1,0.5333333333333333
+208,pearl_mussel great day international group demonstrating great work pearl_mussel farmer delivering environm,18,140,6.833333333333333,4,0,0,1,0.5333333333333333
+209,eoinllewellyn keep messaging ifamedia farmersjournal farmer ireland head san,19,140,6.777777777777778,5,0,0,2,0.0
+210,keep messaging ifamedia farmersjournal farmer ireland head th httpstco6vjt2bek3,17,140,7.75,4,0,0,1,0.0
+211,jobfairy hiring forestry inspector number vacancy exist grade iii forestry inspector,20,139,6.105263157894737,3,2,0,3,0.0
+212,mick_gaffney job alert beyond peat looking recruit 48 month term postdoctoral candi,22,140,5.409090909090909,4,0,1,1,0.0
+213,siobhanoconnor3 17 month postdoc position open anyone interested farmer mental health help,21,140,5.714285714285714,5,0,1,1,0.049999999999999996
+214,pamela49986311 ethicalfarmie newstalkfm irishtimes independent_ie irishexaminer ifamedia patkennynt,11,140,11.818181818181818,0,0,0,1,0.0
+215,pamela49986311 ethicalfarmie newstalkfm irishtimes independent_ie irishexaminer ifamedia patkennynt,11,140,11.818181818181818,0,0,0,1,0.0
+216,pamela49986311 ethicalfarmie newstalkfm irishtimes independent_ie irishexaminer ifamedia patkennynt,11,140,11.818181818181818,0,0,0,1,0.0
+217,pamela49986311 ethicalfarmie newstalkfm irishtimes independent_ie irishexaminer ifamedia patkennynt,11,140,11.818181818181818,0,0,0,1,0.0
+218,mick_gaffney job alert beyond peat looking recruit 48 month term postdoctoral candi,22,140,5.409090909090909,4,0,1,1,0.0
+219,pamela49986311 ethicalfarmie newstalkfm irishtimes independent_ie irishexaminer ifamedia patkennynt,11,140,11.818181818181818,0,0,0,1,0.0
+220,pamela49986311 ethicalfarmie newstalkfm irishtimes independent_ie irishexaminer ifamedia patkennynt,11,140,11.818181818181818,0,0,0,1,0.0
+221,pauline67477 pamela49986311 ethicalfarmie newstalkfm irishtimes independent_ie irishexaminer ifa,11,140,11.818181818181818,0,0,0,3,0.0
+222,pamela49986311 ethicalfarmie newstalkfm irishtimes independent_ie irishexaminer ifamedia patkennynt,11,140,11.818181818181818,0,0,0,1,0.0
+223,mick_gaffney job alert beyond peat looking recruit 48 month term postdoctoral candi,22,140,5.409090909090909,4,0,1,1,0.0
+224,saveleitrim env_pillar ellamcsweeney citizassembly certainly large scale cumulative plantation forestry reducing biodive,16,140,7.8125,3,0,0,1,0.21428571428571427
+225,1000 school took part final 10 vote follow u twitter andor facebook,22,139,4.75,7,0,0,1,0.0
+226,great day international group demonstrating great work pearl_mussel farmer delivering en httpstcoo14raxyoxn,17,140,7.294117647058823,4,0,0,0,0.5333333333333333
+227,saveleitrim env_pillar ellamcsweeney citizassembly certainly large scale cumulative plantation forestry reducing biodive,16,140,7.8125,3,0,0,1,0.21428571428571427
+228,1000 school took part final 10 vote follow u twitter andor facebook,22,139,4.75,7,0,0,1,0.0
+229,pearl_mussel thanks joe mannion forumconnemara facilitating great networking event biodiversity wee,22,140,5.666666666666667,8,0,0,1,0.5
+230,biodatacentre hosting monthlong virtual festival farmland biodiversity may focus challe,20,140,6.05,7,0,0,1,0.0
+231,h_dundon liamly window opportunity closing fast subsidy increase silage increase,21,140,5.714285714285714,6,1,0,1,0.2
+232,liamly window opportunity closing fast subsidy increase silage httpstcomijvfljkcn,19,140,6.421052631578948,6,1,0,0,0.2
+233,mick_gaffney job alert beyond peat looking recruit 48 month term postdoctoral candi,22,140,5.409090909090909,4,0,1,1,0.0
+234,mitchellosak high_times_mag attn michealmartintd leovaradkar eamonryan maryloumcdonald pearsedoherty httpstcopwqvwrf6sx,10,135,12.6,0,0,0,1,0.0
+235,1000 school took part final 10 vote follow u twitter andor facebook,22,139,4.75,7,0,0,1,0.0
+236,pamela49986311 ethicalfarmie newstalkfm irishtimes independent_ie irishexaminer httpstcogw4chtsoxk,9,138,14.444444444444445,0,0,0,0,0.0
+237,pamela49986311 ethicalfarmie newstalkfm irishtimes independent_ie irishexaminer ifamedia patkennynt,11,140,11.818181818181818,0,0,0,1,0.0
+238,minister today announced next tranche organic processing investment grant scheme open,19,140,6.421052631578948,5,0,0,1,0.0
+239,leafireland check 3 year anchoillbheag thomondcommcoll flourishing planted 2nd yr woodwork st,23,140,5.130434782608695,8,1,1,1,0.0
+240,minister today announced next tranche organic processing investment grant scheme open,19,140,6.421052631578948,5,0,0,1,0.0
+241,biodcon_ie noonan_malcolm depthousingirl notice_nature citizassembly irishenvnet npwsbiodata natcap_irl httpstcowhu1ppzhqk,9,136,14.222222222222221,0,0,0,0,0.0
+242,biodcon_ie noonan_malcolm depthousingirl notice_nature citizassembly irishenvnet npwsbiodata natcap_irl httpstcokx4g7vi1dn,9,136,14.222222222222221,0,0,0,0,0.0
+243,calculate food waste business find optimization programme new programme httpstcodzd0nqlwam,21,140,5.409090909090909,9,0,0,0,-0.03181818181818183
+244,look pinned tweet well recently sent rush juncus biochar lab got simila httpstcoebowxdiu9l,25,140,4.833333333333333,9,1,0,0,0.0
+245,7farmers day caoimhe murphy sarah healy ben dowling angelinaanna sasunts group junior infant 2nd class scoi,16,140,6.421052631578948,0,0,0,1,0.0
+246,6the hare isabelle clancy group 3rd 6th class scoil bhride lackagh cokildare follow twitter andor fac,17,140,6.0,1,0,0,1,0.0
+247,pamela49986311 ethicalfarmie newstalkfm irishtimes independent_ie irishexaminer ifamedia patkennynt,11,140,11.818181818181818,0,0,0,1,0.0
+248,pamela49986311 ethicalfarmie newstalkfm irishtimes independent_ie irishexaminer ifamedia patkennynt,11,140,11.818181818181818,0,0,0,1,0.0
+249,mick_gaffney job alert beyond peat looking recruit 48 month term postdoctoral candi,22,140,5.409090909090909,4,0,1,1,0.0
+250,mick_gaffney job alert beyond peat looking recruit 48 month term postdoctoral candi,22,140,5.409090909090909,4,0,1,1,0.0
+251,siobhanoconnor3 17 month postdoc position open anyone interested farmer mental health help,21,140,5.714285714285714,5,0,1,1,0.049999999999999996
+252,concern arent good enough action needed httpstcow61gs2byjl,14,126,8.071428571428571,3,0,0,0,0.26666666666666666
+253,siobhanoconnor3 17 month postdoc position open anyone interested farmer mental health help,21,140,5.714285714285714,5,0,1,1,0.049999999999999996
+254,bog time mia guilfoyle eleanor mccormack angeline leonardo sophie hunt group 3rd 6th class stevins sch,17,140,6.05,0,0,0,1,0.0
+255,siobhanoconnor3 17 month postdoc position open anyone interested farmer mental health help,21,140,5.714285714285714,5,0,1,1,0.049999999999999996
+256,pamela49986311 ethicalfarmie newstalkfm irishtimes independent_ie irishexaminer ifamedia patkennynt,11,140,11.818181818181818,0,0,0,1,0.0
+257,mick_gaffney job alert beyond peat looking recruit 48 month term postdoctoral candi,22,140,5.409090909090909,4,0,1,1,0.0
+258,analyticsinsire introducing finalist 2022 analytics amp ai award public sector analytics year category spon,21,144,5.904761904761905,5,0,1,2,0.0
+259,check 3 year anchoillbheag thomondcommcoll flourishing planted 2nd yr wood httpstcoyedev2jfy8,21,140,5.714285714285714,8,1,1,0,0.0
+260,mick_gaffney job alert beyond peat looking recruit 48 month term postdoctoral candi,22,140,5.409090909090909,4,0,1,1,0.0
+261,mick_gaffney job alert beyond peat looking recruit 48 month term postdoctoral candi,22,140,5.409090909090909,4,0,1,1,0.0
+262,mick_gaffney job alert beyond peat looking recruit 48 month term postdoctoral candi,22,140,5.409090909090909,4,0,1,1,0.0
+263,leafireland happy biodiversityweek2022 listen throwback 2019 student limerick school sing,20,139,6.0,5,1,0,1,0.8
+264,happy biodiversityweek2022 listen throwback 2019 student limerick school sing httpstcongnot8lzzm,18,140,6.833333333333333,5,1,0,0,0.8
+265,analyticsinsire csoireland ordnanceireland congrats finalist,9,92,9.333333333333334,2,0,0,0,0.0
+266,mick_gaffney job alert beyond peat looking recruit 48 month term postdoctoral candi,22,140,5.409090909090909,4,0,1,1,0.0
+267,introducing finalist 2022 analytics amp ai award public sector analytics year category httpstconq422gc1zo,20,144,6.25,5,0,1,1,0.0
+268,minister today announced next tranche organic processing investment grant scheme open,19,140,6.421052631578948,5,0,0,1,0.0
+269,siobhanoconnor3 17 month postdoc position open anyone interested farmer mental health help,21,140,5.714285714285714,5,0,1,1,0.049999999999999996
+270,siobhanoconnor3 17 month postdoc position open anyone interested farmer mental health help,21,140,5.714285714285714,5,0,1,1,0.049999999999999996
+271,mick_gaffney job alert beyond peat looking recruit 48 month term postdoctoral candi,22,140,5.409090909090909,4,0,1,1,0.0
+272,mick_gaffney job alert beyond peat looking recruit 48 month term postdoctoral candi,22,140,5.409090909090909,4,0,1,1,0.0
+273,pamela49986311 ethicalfarmie newstalkfm irishtimes independent_ie irishexaminer ifamedia patkennynt,11,140,11.818181818181818,0,0,0,1,0.0
+274,mick_gaffney job alert beyond peat looking recruit 48 month term postdoctoral candi,22,140,5.409090909090909,4,0,1,1,0.0
+275,job alert beyond peat looking recruit 48 month term postdoctoral httpstco1ngwahn3yt,20,140,6.05,4,0,1,0,0.0
+276,pamela49986311 ethicalfarmie newstalkfm irishtimes independent_ie irishexaminer ifamedia patkennynt,11,140,11.818181818181818,0,0,0,1,0.0
+277,6the hare isabelle clancy group 3rd 6th class scoil bhride lackagh cokildare follow twitter andor fac,17,140,6.0,1,0,0,1,0.0
+278,farmers4safety youtube clip highlight danger risk come slurry gas irishrurallink brid,19,140,6.421052631578948,5,0,0,1,0.0
+279,farmers4safety youtube clip highlight danger risk come slurry gas irishrurallink brid,19,140,6.421052631578948,5,0,0,1,0.0
+280,siobhanoconnor3 17 month postdoc position open anyone interested farmer mental health help,21,140,5.714285714285714,5,0,1,1,0.049999999999999996
+281,siobhanoconnor3 17 month postdoc position open anyone interested farmer mental health help,21,140,5.714285714285714,5,0,1,1,0.049999999999999996
+282,pamela49986311 ethicalfarmie newstalkfm irishtimes independent_ie irishexaminer ifamedia patkennynt,11,140,11.818181818181818,0,0,0,1,0.0
+283,siobhanoconnor3 17 month postdoc position open anyone interested farmer mental health help,21,140,5.714285714285714,5,0,1,1,0.049999999999999996
+284,siobhanoconnor3 17 month postdoc position open anyone interested farmer mental health help,21,140,5.714285714285714,5,0,1,1,0.049999999999999996
+285,siobhanoconnor3 17 month postdoc position open anyone interested farmer mental health help,21,140,5.714285714285714,5,0,1,1,0.049999999999999996
+286,17 month postdoc position open anyone interested farmer mental health h httpstcomtyxboauo,20,140,6.05,5,0,1,0,0.049999999999999996
+287,never used barbed wire fencing httpstcor32zwdlg3s,8,77,8.5,1,0,0,0,0.0
+288,pamela49986311 ethicalfarmie newstalkfm irishtimes independent_ie irishexaminer ifamedia patkennynt,11,140,11.818181818181818,0,0,0,1,0.0
+289,pamela49986311 ethicalfarmie newstalkfm irishtimes independent_ie irishexaminer ifamedia patkennynt,11,140,11.818181818181818,0,0,0,1,0.0
+290,pamela49986311 ethicalfarmie newstalkfm irishtimes independent_ie irishexaminer ifamedia patkennynt,11,140,11.818181818181818,0,0,0,1,0.0
+291,minister today announced next tranche organic processing investment grant scheme open,19,140,6.421052631578948,5,0,0,1,0.0
+292,4m brexit seafood processing capital support scheme read httpstcorevhgtsc8e brexit seafood httpstcoq40c68cbij,12,137,8.714285714285714,1,2,0,0,0.0
+293,minister today announced next tranche organic processing investment grant scheme open,19,140,6.421052631578948,5,0,0,1,0.0
+294,pamela49986311 ethicalfarmie newstalkfm irishtimes independent_ie irishexaminer ifamedia patkennynt,11,140,11.818181818181818,0,0,0,1,0.0
+295,pamela49986311 ethicalfarmie newstalkfm irishtimes independent_ie irishexaminer ifamedia patkennynt,11,140,11.818181818181818,0,0,0,1,0.0
+296,pamela49986311 ethicalfarmie newstalkfm irishtimes independent_ie irishexaminer ifamedia patkennynt,11,140,11.818181818181818,0,0,0,1,0.0
+297,pamela49986311 ethicalfarmie newstalkfm irishtimes independent_ie irishexaminer ifamedia patkennynt,11,140,11.818181818181818,0,0,0,1,0.0
+298,pamela49986311 ethicalfarmie newstalkfm irishtimes independent_ie irishexaminer ifamedia patkennynt,11,140,11.818181818181818,0,0,0,1,0.0
+299,ethicalfarmie newstalkfm irishtimes independent_ie irishexaminer ifamedia httpstcomydhdjwpl3,9,132,13.777777777777779,0,0,0,0,0.0
+300,youtube clip highlight danger risk come slurry gas irishrurallink httpstcoyz9sv93stc,17,138,7.176470588235294,5,0,0,0,0.0
+301,biodatacentre hosting monthlong virtual festival farmland biodiversity may focus challe,20,140,6.05,7,0,0,1,0.0
+302,vistamilk vistamilk postdoc dara leong teagascfood telling u work developing digestion model morning,22,140,5.409090909090909,7,1,0,1,0.0
+303,next monthly digitalisingdairy zoom postdoc danpmartins waltoninst setu_research presenting rece httpstcoumlrgislj0,15,140,8.4,3,1,0,0,0.0
+304,vistamilk postdoc dara leong teagascfood telling u work developing digestion model morning httpstcoiforlvlk9v,18,140,6.833333333333333,5,0,0,0,0.0
+305,sfs_ireland delighted welcome tanzania livestock research institute taliri ministry livestock fishery li,20,140,6.05,6,0,0,2,0.75
+306,depthousingirl opw heritagehubire biodatacentre birdsmatter_ie peatlandconserv httpstcoxh0vgss8u,8,125,14.75,0,0,0,0,0.0
+307,biosci_ul delighted welcome martinheydonfg biosci_ul discus research kenbyrne8 eibhli,18,140,6.833333333333333,5,0,0,1,0.75
+308,sfs_ireland delighted welcome tanzania livestock research institute taliri ministry livestock fishery li,20,140,6.05,6,0,0,2,0.75
+309,sfs_ireland tomarnoldceo irish government special envoy food system met partner maziwa faida projec,21,140,5.714285714285714,7,0,0,3,0.17857142857142858
+310,delighted welcome martinheydonfg biosci_ul discus research httpstcooejcejhohn,15,130,7.733333333333333,5,0,0,0,0.75
+311,pearl_mussel forumconnemara connemaranp first speaker look particularly interesting though httpstco32uiiudhbr,12,140,10.75,0,0,0,0,0.375
+312,pearl_mussel thanks joe mannion forumconnemara facilitating great networking event biodiversity wee,22,140,5.666666666666667,8,0,0,1,0.5
+313,lifeonmachair nature farming go hand hand depthousingirl teagascenviron,13,116,8.0,2,0,0,1,0.0
+314,said lufthansa flyswiss staff embargo imposed irish government pet tra httpstcot62cfxutxb,22,140,5.409090909090909,9,0,0,1,0.0
+315,lifeonmachair nature farming go hand hand depthousingirl teagascenviron,13,116,8.0,2,0,0,1,0.0
+316,1000 school took part final 10 vote follow u twitter andor facebook,22,139,4.75,7,0,0,1,0.0
+317,nature farming go hand hand depthousingirl teagascenviron httpstcozakky8jcvu,12,121,9.166666666666666,2,0,0,0,0.0
+318,9my ideal farm cian mcevoy group 3rd 6th class stcolmcille n aughnacliffe colongford follow twitter,15,139,6.368421052631579,1,0,0,2,0.45
+319,pearl_mussel thanks joe mannion forumconnemara facilitating great networking event biodiversity wee,22,140,5.666666666666667,8,0,0,1,0.5
+320,1000 school took part final 10 vote follow u twitter andor facebook,22,139,4.75,7,0,0,1,0.0
+321,1000 school took part final 10 vote follow u twitter andor facebook yo httpstcogflom6sepz,21,140,5.043478260869565,7,0,0,0,0.0
+322,animalwelfareie banbloodsports watch_welfare horseslaughter_ banhorseracingi banhorseracing1 httpstcoe9eug0r7pa,8,139,16.5,0,0,0,0,0.0
+323,animalwelfareie 1100 racehorse died ireland 2021 30 met fate 2022 100 killed,23,139,5.0,3,0,2,8,-0.2
+324,animalwelfareie 1100 racehorse died ireland 2021 30 met fate 2022 100 killed,23,139,5.0,3,0,2,8,-0.2
+325,animalwelfareie 1100 racehorse died ireland 2021 30 met fate 2022 100 killed,23,139,5.0,3,0,2,8,-0.2
+326,animalwelfareie 1100 racehorse died ireland 2021 30 met fate 2022 100 killed,23,139,5.0,3,0,2,8,-0.2
+327,animalwelfareie 1100 racehorse died ireland 2021 30 met fate 2022 100 killed,23,139,5.0,3,0,2,8,-0.2
+328,animalwelfareie 1100 racehorse died ireland 2021 30 met fate 2022 100 killed,23,139,5.0,3,0,2,8,-0.2
+329,6the hare isabelle clancy group 3rd 6th class scoil bhride lackagh cokildare follow twitter andor fac,17,140,6.0,1,0,0,1,0.0
+330,lnbdublin would canine fertility business taking payment cryptocurrency sector contr httpstcoicls4rfotz,19,140,6.0,6,0,0,0,0.0
+331,dobetterdd 669 stud ad httpstcosmtxc6wko health tested stud owner breeder big business,21,139,5.571428571428571,6,0,1,1,0.0
+332,paulsmid94 see latest update recently completed facce_eragas rumenpredict research conducted ente,19,140,6.421052631578948,5,0,0,2,0.25
+333,6the hare isabelle clancy group 3rd 6th class scoil bhride lackagh cokildare follow twitter andor fac,17,140,6.0,1,0,0,1,0.0
+334,reminder farmer reminded apply 2022 basic payment scheme bps midnight monday may 16,20,138,5.571428571428571,6,0,1,2,0.0
+335,thanks joe mannion forumconnemara facilitating great networking event biodiversi httpstcovzzqfvqorb,20,140,6.368421052631579,8,0,0,0,0.5
+336,minister announced million pilot farm environmental study fe op,19,140,6.421052631578948,5,0,0,2,0.0
+337,jobfairy hiring forestry inspector number vacancy exist grade iii forestry inspector,20,139,6.105263157894737,3,2,0,3,0.0
+338,mcodublin saturday mco enjoyed facilitating another fantastic deliberative dialogue session,18,139,6.777777777777778,3,0,0,2,0.45
+339,jobfairy hiring forestry inspector number vacancy exist grade iii forestry inspector,20,139,6.105263157894737,3,2,0,3,0.0
+340,rdm कलज ऑफ एगरकलचर मडवर क दवर जवक खद क उतपदन icarindia httpstco9kofij1wnl,15,117,6.733333333333333,0,0,0,1,0.0
+341,nfgws latest edition rural water news magazine available download httpstcoj0tc2zz3l6 anforamuisce epac,18,140,6.2631578947368425,5,0,0,2,0.3
+342,jobfairy hiring forestry inspector number vacancy exist grade iii forestry inspector,20,139,6.105263157894737,3,2,0,3,0.0
+343,bog time mia guilfoyle eleanor mccormack angeline leonardo sophie hunt group 3rd 6th class stevins sch,17,140,6.05,0,0,0,1,0.0
+344,paulsmid94 see latest update recently completed facce_eragas rumenpredict research conducted ente,19,140,6.421052631578948,5,0,0,2,0.25
+345,remoh12 one telling,12,82,5.916666666666667,5,0,0,1,0.0
+346,bog time mia guilfoyle eleanor mccormack angeline leonardo sophie hunt group 3rd 6th class stevins sch,17,140,6.05,0,0,0,1,0.0
+347,8love past seize future james duffy group 1st year 3rd year athlone community college athlone co w,19,140,5.409090909090909,0,0,0,2,-0.08333333333333333
+348,jobfairy hiring forestry inspector number vacancy exist grade iii forestry inspector,20,139,6.105263157894737,3,2,0,3,0.0
+349,naturenymph birdwatchie video explaining rodenticides effect wild bird bird prey know smaller bir,22,140,5.409090909090909,7,0,0,1,0.05
+350,naturenymph birdwatchie video explaining rodenticides effect wild bird bird prey know smaller bir,22,140,5.409090909090909,7,0,0,1,0.05
+351,naturenymph birdwatchie video explaining rodenticides effect wild bird bird prey know smaller bir,22,140,5.409090909090909,7,0,0,1,0.05
+352,naturenymph birdwatchie video explaining rodenticides effect wild bird bird prey know smaller bir,22,140,5.409090909090909,7,0,0,1,0.05
+353,dscork delighted visited last week clare gormley department huge supporter th,22,140,5.086956521739131,8,0,0,1,0.3666666666666667
+354,good_2grow delighted visited last week clare gormley department huge supporter,21,140,5.363636363636363,7,0,0,1,0.3666666666666667
+355,delighted visited last week clare gormley department huge supp httpstcoc3uujghpg,19,140,6.0,7,0,0,0,0.3666666666666667
+356,delighted visited last week clare gormley department huge supp httpstcojfqo4mw3q0,19,140,6.0,7,0,0,0,0.3666666666666667
+357,1000 school took part final 10 vote 1follow u twitter andor facebook v,23,140,4.64,8,0,1,1,0.0
+358,8love past seize future james duffy group 1st year 3rd year athlone community college athlone co w,19,140,5.409090909090909,0,0,0,2,-0.08333333333333333
+359,naturenymph birdwatchie video explaining rodenticides effect wild bird bird prey know smaller bir,22,140,5.409090909090909,7,0,0,1,0.05
+360,naturenymph birdwatchie video explaining rodenticides effect wild bird bird prey know smaller bir,22,140,5.409090909090909,7,0,0,1,0.05
+361,naturenymph birdwatchie video explaining rodenticides effect wild bird bird prey know smaller bir,22,140,5.409090909090909,7,0,0,1,0.05
+362,3the boglands mark fox group 3rd 6th class kilteevan n kilteevan co roscommon follow twitter ando httpstcove8vpwxytd,15,140,6.421052631578948,1,0,0,1,0.0
+363,9my ideal farm cian mcevoy group 3rd 6th class stcolmcille n aughnacliffe colongford follow twitt httpstcosxntntzxmq,14,140,6.833333333333333,1,0,0,1,0.45
+364,1bogopoly eimear lovern antigoni arvaniti ksenia kieltyka isabelle murphy group 3rd 6th class stevins sc httpstcohdk2lisyxg,15,140,7.235294117647059,0,0,0,0,0.0
+365,birdwatchie video explaining rodenticides effect wild bird bird prey know smal httpstcodvsghqs4bg,20,140,6.05,7,0,0,0,0.1
+366,bog time mia guilfoyle eleanor mccormack angeline leonardo sophie hunt group 3rd 6th class stevins httpstcowlijqhw6g,15,139,6.777777777777778,0,0,0,0,0.0
+367,10buried past aisling obrien group 4th 6th year ballinamore c ballinamore co leitrim follow ou httpstcoza1pyfmjkg,15,140,6.421052631578948,0,0,0,1,-0.25
+368,7farmers day caoimhe murphy sarah healy ben dowling angelinaanna sasunts group junior infant 2nd class httpstcoy9m1a6gk1d,15,140,6.833333333333333,0,0,0,1,0.0
+369,4the hopper killian lunt group 3rd 6th class kilteevan n kilteevan co roscommon follow twitter httpstcouobid8186,15,140,6.421052631578948,1,0,0,1,0.0
+370,restriction assembly live bird lifted today bird gathering show sale permitted,20,140,5.666666666666667,7,0,0,1,0.13636363636363635
+371,2mediatrap amelia kobzda alison flood julia kurpis dagmara pasieka group 1st 3rd year colaiste chiarain httpstcodnqhpvtccw,15,140,6.833333333333333,0,0,0,1,0.0
+372,1000 school took part final 10 vote 1follow u twitter andor facebook v,23,140,4.64,8,0,1,1,0.0
+373,nfgws latest edition rural water news magazine available download httpstcoj0tc2zz3l6 anforamuisce epac,18,140,6.2631578947368425,5,0,0,2,0.3
+374,6the hare isabelle clancy group 3rd 6th class scoil bhride lackagh cokildare follow twitter andor fac,17,140,6.0,1,0,0,1,0.0
+375,see latest update recently completed facce_eragas rumenpredict research conducted httpstcotzylvyj3xq,16,140,7.8125,4,0,0,1,0.25
+376,farmers4safety great steering group meeting morning eipagri irishrurallink bride_project duncan,15,140,7.8125,4,1,0,2,0.8
+377,farmers4safety irishrurallink bride_project duncannoneip catherineguest thehsa embracefarm httpstco96jskwwti3,9,138,14.444444444444445,0,0,0,0,0.0
+378,1000 school took part final 10 vote 1follow u twitter andor facebook v,23,140,4.64,8,0,1,1,0.0
+379,reminder farmer reminded apply 2022 basic payment scheme bps midnight monday may 16,20,138,5.571428571428571,6,0,1,2,0.0
+380,1000 school took part final 10 vote 1follow u twitter andor facebook v,23,140,4.64,8,0,1,1,0.0
+381,1000 school took part final 10 vote 1follow u twitter andor facebook v,23,140,4.64,8,0,1,1,0.0
+382,jwojc bordbia ografiannafail fiannafailparty martinheydonfg httpstcoacmdprllmj,9,133,13.88888888888889,0,0,0,0,0.0
+383,saveleitrim env_pillar ellamcsweeney citizassembly certainly large scale cumulative plantation forestry reducing biodive,16,140,7.8125,3,0,0,1,0.21428571428571427
+384,8love past seize future james duffy group 1st year 3rd year athlone community college athlone co w,19,140,5.409090909090909,0,0,0,2,-0.08333333333333333
+385,8love past seize future james duffy group 1st year 3rd year athlone community college athlone co w,19,140,5.409090909090909,0,0,0,2,-0.08333333333333333
+386,8love past seize future james duffy group 1st year 3rd year athlone community college athlone co httpstcoaw46e4gq69,17,140,6.05,0,0,0,0,-0.08333333333333333
+387,1000 school took part final 10 vote 1follow u twitter andor facebook httpstcolvsqcbv32b,21,140,5.130434782608695,7,0,1,0,0.0
+388,6the hare isabelle clancy group 3rd 6th class scoil bhride lackagh cokildare follow twitter andor httpstcoe6vgzflx,15,139,6.722222222222222,1,0,0,0,0.0
+389,farmers4safety great steering group meeting morning eipagri irishrurallink bride_project duncan,15,140,7.8125,4,1,0,2,0.8
+390,great steering group meeting morning eipagri irishrurallink bride_project httpstco1p01fdaar0,13,136,8.785714285714286,4,1,0,1,0.8
+391,nfgws latest edition rural water news magazine available download httpstcoj0tc2zz3l6 anforamuisce epac,18,140,6.2631578947368425,5,0,0,2,0.3
+392,carlowleo benefit optimization niall mcmanus earthroute tell new food waste management programme,21,140,5.363636363636363,4,0,0,1,-0.03181818181818183
+393,reminder farmer reminded apply 2022 basic payment scheme bps midnight monday may 16,20,138,5.571428571428571,6,0,1,2,0.0
+394,final reminder farmer reminded apply 2022 basic payment scheme bps midnight tonight,19,140,5.9,5,0,1,2,0.0
+395,latest edition rural water news magazine available download httpstcoj0tc2zz3l6 httpstcoloh9tpkkdq,16,132,7.1875,5,0,0,0,0.3
+396,reminder farmer reminded apply 2022 basic payment scheme bps midnight monday may 16,20,138,5.571428571428571,6,0,1,2,0.0
+397,env_pillar ellamcsweeney citizassembly certainly large scale cumulative plantation forestry reducing httpstcof46jqo1xgw,14,139,9.0,2,0,0,0,0.21428571428571427
+398,oonagheats bordbia loc_enterprise udarasnag entirl inter_trade food_ni blasnaheireann httpstcotv8bfxv4r,10,134,12.5,0,0,0,0,0.0
+399,mcodublin saturday mco enjoyed facilitating another fantastic deliberative dialogue session,18,139,6.777777777777778,3,0,0,2,0.45
+400,saturday mco enjoyed facilitating another fantastic deliberative dialogue session httpstcoju88yfigs1,14,125,8.0,1,0,0,1,0.45
+401,animalwelfareie 1100 racehorse died ireland 2021 30 met fate 2022 100 killed,23,139,5.0,3,0,2,8,-0.2
+402,animalwelfareie 1100 racehorse died ireland 2021 30 met fate 2022 100 killed,23,139,5.0,3,0,2,8,-0.2
+403,teagasc martin heydon td minister state department agriculture food marine kildalton college week,24,140,4.875,9,0,0,2,0.0
+404,seems large outbreak currently scotland,11,72,5.636363636363637,4,0,0,0,0.10714285714285714
+405,restriction assembly live bird lifted today bird gathering show sale permitted,20,140,5.666666666666667,7,0,0,1,0.13636363636363635
+406,restriction assembly live bird lifted today bird gathering show sale permitted,20,140,5.666666666666667,7,0,0,1,0.13636363636363635
+407,saveleitrim biodiversityweek2022 hope greenparty_ie fiannafailparty fine,13,140,9.846153846153847,2,1,0,1,0.4166666666666667
+408,farmers4safety delighted featured farmersjournal click read article httpstcox7hybgwljp eipagri agr,15,140,6.833333333333333,7,1,0,2,0.7
+409,animalwelfareie 1100 racehorse died ireland 2021 30 met fate 2022 100 killed,23,139,5.0,3,0,2,8,-0.2
+410,gra_ghg calling agricultural researcher amp learn new opportunity fund ghg research collaboration,20,143,6.15,6,1,0,3,0.13636363636363635
+411,animalwelfareie 1100 racehorse died ireland 2021 30 met fate 2022 100 killed,23,139,5.0,3,0,2,8,-0.2
+412,botanist_rach louisschipper awecking mpi_nz garylanigan1 info check web httpstcovqezdj0mbh,14,140,9.071428571428571,3,0,0,1,0.0
+413,animalwelfareie watch_welfare banbloodsports horseslaughter_ banhorseracingi banhorseracing1 httpstco8kcvmqbf6s,8,139,16.5,0,0,0,0,0.0
+414,mpi_nz information webinar 1 2022 joint research call ireland new zealand 18 may httpstcomtdznoy7b,17,137,6.666666666666667,2,0,2,1,0.13636363636363635
+415,calling agricultural researcher amp learn new opportunity fund ghg research coll httpstcotrf8a0inhq,19,144,6.578947368421052,6,1,0,1,0.13636363636363635
+416,mpi_nz new zealand ireland signed joint initiative allowing researcher country work together proposal,22,140,5.409090909090909,7,0,0,2,0.13636363636363635
+417,carlowleo benefit optimization niall mcmanus earthroute tell new food waste management programme,21,140,5.363636363636363,4,0,0,1,-0.03181818181818183
+418,animalwelfareie banbloodsports watch_welfare horseslaughter_ banhorseracingi banhorseracing1 httpstconizdtuukyh,8,139,16.5,0,0,0,0,0.0
+419,carlowleo benefit optimization niall mcmanus earthroute tell new food waste management programme,21,140,5.363636363636363,4,0,0,1,-0.03181818181818183
+420,saveleitrim citizassembly mshelencarroll aoibhinn_ni_s noonan_malcolm eamonryan npwsbiodata mich,11,140,11.818181818181818,0,0,0,1,0.0
+421,benefit optimization niall mcmanus earthroute tell new food waste management prog httpstcohsv2xyrjp,19,140,6.0,4,0,0,0,-0.03181818181818183
+422,midshannon npwsbiodata dtmcloughlin bordnamona teagasc wan_lifeip noonan_malcolm niallryan3,12,140,10.75,0,0,0,2,0.0
+423,minister martinheydonfg launched new research initiative new zealand minister damienoconno,16,140,7.8125,3,0,0,1,0.13636363636363635
+424,eoinmauricedaly appalling ireland going produce baby formula american cant bare idea bre httpstcouu4bfdfmft,19,140,6.421052631578948,6,0,0,0,-0.09999999999999999
+425,animalwelfareie 1100 racehorse died ireland 2021 30 met fate 2022 100 killed,23,139,5.0,3,0,2,8,-0.2
+426,animalwelfareie 1100 racehorse died ireland 2021 30 met fate 2022 100 killed,23,139,5.0,3,0,2,8,-0.2
+427,savekerry fyi one last remaining hen harrier pair nw cork department agri,22,140,5.409090909090909,7,0,0,3,0.0
+428,savekerry fyi one last remaining hen harrier pair nw cork department agri,22,140,5.409090909090909,7,0,0,3,0.0
+429,animalwelfareie 1100 racehorse died ireland 2021 30 met fate 2022 100 killed,23,139,5.0,3,0,2,8,-0.2
+430,peterryaneire npaie irelandinnz ibnnzwgtn globalirish b_oconnell ei_anz bradburgessnz httpstcokl8bmugwqq,10,134,12.5,0,0,0,3,0.0
+431,remember near future hen harrier extinct httpstcoh1ocmcmkav,17,139,7.235294117647059,5,0,0,0,-0.10000000000000002
+432,fyi one last remaining hen harrier pair nw cork departm httpstcofbkgixnajz,20,140,6.05,7,0,0,2,0.0
+433,dr_a_kelly irishtimes ihrb_ie good look horse racing httpstcofgms8bzrlf,16,139,7.75,3,0,0,0,0.7
+434,farmers4safety delighted featured farmersjournal click read article httpstcox7hybgwljp eipagri agr,15,140,6.833333333333333,7,1,0,2,0.7
+435,martin heydon td minister state department agriculture food marine kildalton college httpstcoyotegzsqrj,20,139,6.0,8,0,0,1,0.0
+436,animalwelfareie 1100 racehorse died ireland 2021 30 met fate 2022 100 killed,23,139,5.0,3,0,2,8,-0.2
+437,animalwelfareie 1100 racehorse died ireland 2021 30 met fate 2022 100 killed,23,139,5.0,3,0,2,8,-0.2
+438,animalwelfareie 1100 racehorse died ireland 2021 30 met fate 2022 100 killed,23,139,5.0,3,0,2,8,-0.2
+439,animalwelfareie 1100 racehorse died ireland 2021 30 met fate 2022 100 killed,23,139,5.0,3,0,2,8,-0.2
+440,animalwelfareie 1100 racehorse died ireland 2021 30 met fate 2022 100 killed,23,139,5.0,3,0,2,8,-0.2
+441,1100 racehorse died ireland 2021 30 met fate 2022 100 killed whi httpstcop6qzmodmi,22,140,5.318181818181818,3,0,2,7,-0.2
+442,animallawie every weekend raced illegally highly organised race national road motorway need b,22,140,5.409090909090909,6,0,0,1,0.16
+443,reminder farmer reminded apply 2022 basic payment scheme bps midnight tomorrow monday,19,140,6.0,5,0,1,2,0.0
+444,reminder farmer reminded apply 2022 basic payment scheme bps midnight tomorrow monday,19,140,6.0,5,0,1,2,0.0
+445,biodatacentre craig_ger pollinatorplan teagascenviron teagasc area alb httpstcoc8l6errzhz,13,140,9.846153846153847,2,0,0,0,0.0
+446,reminder farmer reminded apply 2022 basic payment scheme bps midnight tomorrow monday,19,140,6.0,5,0,1,2,0.0
+447,dobetterdd dobetterdd message important x,11,79,6.2727272727272725,1,0,0,1,0.4
+448,4 little old ireland amoc system shutting reversing becoming unstable unpredictable every httpstcozts0zlp2tr,19,140,6.421052631578948,5,0,1,1,0.04895833333333335
+449,saveleitrim attractaub savekerry mess really forestry policy practice need wind change make difference,23,140,5.130434782608695,6,0,0,2,0.012500000000000011
+450,time humanity unite common denominator soil let make happen savesoil pmoindia httpstcovdtc27exjq,19,136,6.157894736842105,7,1,0,0,-0.3
+451,dobetterdd 669 stud ad httpstcosmtxc6wko health tested stud owner breeder big business,21,139,5.571428571428571,6,0,1,1,0.0
+452,irishdogs animallawie yep long legal youre happy let run right let st httpstcovf1eadsope,19,140,6.0,5,0,0,0,0.30892857142857144
+453,animallawie dobetterdd yes register sale supply individual httpstcoxsgimd1g3s,16,140,7.8125,6,0,0,0,0.0
+454,dobetterdd quite,3,34,10.666666666666666,0,0,0,0,0.0
+455,animallawie pretty difficult supply puppy without sperm,9,77,7.666666666666667,1,0,0,0,-0.125
+456,dobetterdd according dafm dog breeding service covered pet sale regulation via email,18,127,6.111111111111111,5,0,0,1,0.0
+457,669 stud ad httpstcosmtxc6wko health tested stud owner breeder big b httpstcofnusev9kgb,20,140,5.95,6,0,1,0,0.0
+458,669 stud ad httpstcosmtxc6wko many dog le 18mths health test stud owner httpstcoqncp1ihry0,19,139,5.95,6,0,1,0,0.5
+459,delighted featured farmersjournal click read article httpstcox7hybgwljp eipagri httpstcot1fv22somg,13,139,7.75,7,1,0,1,0.7
+460,biodiversityweek2022 hope greenparty_ie httpstcos8u9lfluil,10,124,11.5,2,1,0,0,0.0
+461,savewestcavan citizassembly mshelencarroll aoibhinn_ni_s noonan_malcolm eamonryan npwsbiodata mi,11,140,11.818181818181818,0,0,0,1,0.0
+462,saveleitrim citizassembly mshelencarroll aoibhinn_ni_s noonan_malcolm eamonryan npwsbiodata mich,11,140,11.818181818181818,0,0,0,1,0.0
+463,env_pillar eamonryan chrisgpackham whitmorejen aliceeire kosullivanit miseanja httpstcovhhwcjdxnt,10,138,12.9,0,0,0,0,0.0
+464,savewestcavan citizassembly mshelencarroll aoibhinn_ni_s noonan_malcolm eamonryan npwsbiodata mi,11,140,11.818181818181818,0,0,0,1,0.0
+465,citizassembly mshelencarroll aoibhinn_ni_s noonan_malcolm eamonryan httpstcolghsyn6eb,8,128,15.125,0,0,0,0,0.0
+466,saveleitrim whittledaway hawhillfarm diversity multifunctionality integrated sustainable sdgs missing current planta,15,140,8.4,3,1,0,1,-0.1
+467,citizassembly mshelencarroll aoibhinn_ni_s noonan_malcolm eamonryan httpstcoiiqlbb6stt,8,128,15.125,0,0,0,0,0.0
+468,savewestcavan npwsbiodata dtmcloughlin bordnamona teagasc wan_lifeip noonan_malcolm niallryan3,12,140,10.75,0,0,0,2,0.0
+469,npwsbiodata dtmcloughlin bordnamona teagasc wan_lifeip noonan_malcolm httpstco3qfktvmyl,9,131,13.666666666666666,0,0,0,1,0.0
+470,midshannon npwsbiodata dtmcloughlin bordnamona teagasc wan_lifeip noonan_malcolm niallryan3,12,140,10.75,0,0,0,2,0.0
+471,npwsbiodata dtmcloughlin bordnamona teagasc wan_lifeip noonan_malcolm httpstcojkw7hgvmi,9,131,13.666666666666666,0,0,0,1,0.0
+472,npwsbiodata dtmcloughlin bordnamona teagasc wan_lifeip noonan_malcolm httpstcoglrbqsfxb,9,131,13.666666666666666,0,0,0,1,0.0
+473,minister urging farmer engage ongoing series teagascorganics farm walk visit,18,140,6.368421052631579,5,0,0,1,0.0
+474,agroforestforum fifth year waiting first felling licence order 1st thinn httpstcosjenbdzvdx,20,140,6.05,7,0,0,0,0.25
+475,whittledaway hawhillfarm diversity multifunctionality integrated sustainable sdgs missing current httpstcoqnssnmrtg7,13,140,9.846153846153847,3,1,0,0,-0.1
+476,npwsbiodata dtmcloughlin bordnamona teagasc wan_lifeip noonan_malcolm httpstco8otbdvywbg,9,131,13.666666666666666,0,0,0,1,0.0
+477,seewilkie noonan_malcolm wan_lifeip depthousingirl npwsbiodata teagasc bordnamona dtmcloughlin,12,140,10.75,0,0,0,2,0.0
+478,today mark start biodiversityweek2022 support farmer deliver biodiversity agrienvir,17,140,6.777777777777778,6,2,0,1,0.0
+479,seewilkie npwsbiodata dtmcloughlin bordnamona teagasc wan_lifeip httpstcoavqyx0cnmc,9,126,13.11111111111111,0,0,0,1,0.0
+480,npwsbiodata dtmcloughlin bordnamona teagasc wan_lifeip noonan_malcolm httpstco4dqwemugi,9,131,13.666666666666666,0,0,0,1,0.0
+481,peterryaneire mpi_nz faranfoley irelandinnz ibnnzwgtn b_oconnell globalirish good see str httpstcoasyrhqfvcg,13,140,9.846153846153847,1,0,0,2,0.7
+482,animallawie unfortunately nothing document racing animaldrawn vehicle road anyone plan end,21,139,5.318181818181818,9,0,0,1,-0.5
+483,second session deliberative dialogue forestry take place today focus social value fore,23,140,5.130434782608695,8,1,0,1,0.016666666666666666
+484,second session deliberative dialogue forestry take place today focus social value fore,23,140,5.130434782608695,8,1,0,1,0.016666666666666666
+485,greenlensblog theleafystreet michealmartintd leovaradkar eamonryan maryloumcdonald pearsedoherty httpstcolip4m96ujp,8,128,15.125,0,0,0,0,0.0
+486,greenlensblog theleafystreet michealmartintd leovaradkar eamonryan maryloumcdonald pearsedoherty httpstconrhuqdbap3,8,128,15.125,0,0,0,0,0.0
+487,leovaradkar maryloumcdonald michealmartintd ye see animal welfa httpstcopj83lvfywf,14,140,8.857142857142858,0,0,0,8,0.0
+488,restriction assembly live bird lifted monday bird gathering show sale permitte,20,140,5.666666666666667,8,0,0,1,0.13636363636363635
+489,restriction assembly live bird lifted monday bird gathering show sale permitte,20,140,5.666666666666667,8,0,0,1,0.13636363636363635
+490,second session deliberative dialogue forestry take place today focus social value fore,23,140,5.130434782608695,8,1,0,1,0.016666666666666666
+491,mikey1jackson2 biodatacentre pollinatorplan teagascenviron teagascforestry teagasc someone,11,139,11.727272727272727,0,0,0,1,0.0
+492,fweed_ high_times_mag attn michealmartintd leovaradkar eamonryan maryloumcdonald pearsedoherty httpstcoeqt2zh64pa,10,129,12.0,0,0,0,1,0.0
+493,theleafystreet attn michealmartintd leovaradkar eamonryan maryloumcdonald pearsedoherty donnellystephen httpstcoaqejq6byfd,10,138,12.9,0,0,0,1,0.0
+494,noonan_malcolm wan_lifeip npwsbiodata depthousingirl greenparty_ie httpstcoaxakzequhw,8,127,15.0,0,0,0,1,0.0
+495,teagascforestry amp run nationwide series walk 9 amp 20 may focusing forest rec httpstco9ghybmxz6,20,148,6.45,5,0,2,0,0.0
+496,interested forestry running series forest walk teagascforestry nationwide may 9 20,21,140,5.619047619047619,7,0,1,1,0.25
+497,biodatacentre pollinatorplan teagascenviron teagascforestry teagasc someone sho httpstcoyghenu8hvg,10,140,13.1,0,0,0,0,0.0
+498,biodatacentre pollinatorplan teagascenviron teagascforestry teagasc never seen httpstcoltmbfbdvyo,10,139,13.0,0,0,0,0,0.0
+499,allowdale jwojc thank transparency ireland cannot even obtain transparency various body sta,24,140,4.875,9,0,0,2,0.0
